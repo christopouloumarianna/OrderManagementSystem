@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\bin\Debug\netcoreapp2.2\OrderManagementSystem.deps.json
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\bin\Debug\netcoreapp2.2\OrderManagementSystem.runtimeconfig.json
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\bin\Debug\netcoreapp2.2\OrderManagementSystem.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\bin\Debug\netcoreapp2.2\OrderManagementSystem.dll
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\bin\Debug\netcoreapp2.2\OrderManagementSystem.pdb
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.dll
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.pdb
+C:\Users\Admin\source\repos\OrderManagementSystem\OrderManagementSystem\obj\Debug\netcoreapp2.2\OrderManagementSystem.csprojAssemblyReference.cache
